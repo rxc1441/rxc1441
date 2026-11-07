@@ -3,5 +3,5 @@
 </p> --->
 
 <p align="center">
-  <img src="https://github.com/rcghpge/rcghpge/blob/main/assets/IMG_6864.jpeg?raw=true" width="100%" alt="p">
+  <img src="https://github.com/rxc1441/rxc1441/blob/main/assets/rxc1441-10.mp4?raw=true" width="100%" alt="p">
 </p>
