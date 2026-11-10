@@ -3,5 +3,5 @@
 </p> ---!>
 
 <p align="center">
-  <video src="https://github.com/rxc1441/rxc1441/blob/main/assets/rxc1441-5.mp4?raw=true" width="100%" controls autoplay loop muted></video>
+  <img src="https://github.com/rxc1441/rxc1441/blob/main/assets/rxc1441.gif?raw=true" width="100%" alt="rxc1441">
 </p>
